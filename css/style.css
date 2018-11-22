@@ -1,0 +1,14 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.map{}
+.map iframe{
+    width: 1000px;
+    height: 600px;
+    padding: 0 115px;
+    margin-bottom: 15px;
+}
+
+.fb-like{}
